@@ -1,0 +1,3 @@
+AddDefaultCharset Off
+AddCharset utf-8 .html .htm .shtml
+
